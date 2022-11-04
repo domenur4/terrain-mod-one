@@ -1,0 +1,7 @@
+{
+	"Mod_Format": 0,
+	"Mod_Version": 0,
+	"Mod_CreatorName": "LocalUser",
+	"Mod_Name": "terrain mod one",
+	"Mod_Description": ""
+}
