@@ -1,7 +1,21 @@
 {
 	"Mod_Format": 0,
-	"Mod_Version": 0,
+	"Mod_Version": 3,
 	"Mod_CreatorName": "LocalUser",
 	"Mod_Name": "terrain mod one",
-	"Mod_Description": ""
+	"Mod_Description": "",
+	"Files": [
+		"Metadata.txt",
+		"README.md",
+		"Assets/13/0",
+		"Assets/13/133",
+		"Assets_Source/Models/1177.glb",
+		"Assets_Source/Models/44137.glb",
+		"Assets_Source/Models/5528.glb",
+		"Assets_Source/Models/951.glb",
+		"Assets_Source/Textures/27_baseColorTexture.png",
+		"Assets_Source/Textures/30_baseColorTexture.png",
+		"Assets_Source/Textures/water.jpg",
+		"README_files/pic.png"
+	]
 }
